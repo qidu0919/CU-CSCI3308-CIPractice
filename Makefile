@@ -31,5 +31,4 @@ clean:
 	$(RM) *~
 
 test:
-	make geometry_test
 	./geometry_test
